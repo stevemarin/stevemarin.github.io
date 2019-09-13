@@ -1,5 +1,4 @@
 ---
-title: Kewl stuff
 layout: post
 ---
 
