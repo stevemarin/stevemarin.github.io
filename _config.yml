@@ -1,5 +1,5 @@
-title: Steve has a Site
-description: Steve is a cool dude.
+title: Steve is Kewl!
+description: This is Steve's site and Steve is Kewl
 show_downloads: false
-theme: jekyll-theme-minima
-
+google_analytics:
+theme: jekyll-theme-cayman

@@ -2,10 +2,6 @@
 layout: default
 ---
 
-$
-math stuff x^2
-$
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
