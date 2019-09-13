@@ -1,6 +1,8 @@
 ---
-title: This is my title
 layout: post
+title: Steve's Site!
+tagline: Breaking down interesting ideas!
+description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
-Here is my page.
+This is a sentence.
