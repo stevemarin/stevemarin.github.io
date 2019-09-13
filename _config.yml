@@ -1,5 +1,5 @@
-title: Steve's Site
+title: Steve has a Site
 description: Steve is a cool dude.
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
