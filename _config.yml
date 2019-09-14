@@ -3,3 +3,4 @@ description: This is Steve's site and Steve is Kewl
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+use_math: true
