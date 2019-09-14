@@ -4,7 +4,7 @@ layout: default
 
 MATH
 
-$x^2 = 5$ 
+$x^2 = 53$ 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
