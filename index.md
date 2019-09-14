@@ -6,6 +6,10 @@ MATH
 
 $x^2 = 53$ 
 
+$
+X^2 = \bar{\mu}
+$
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
